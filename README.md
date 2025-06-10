@@ -24,3 +24,6 @@ This beginner-friendly DevOps project uses Ansible to automate Linux VM configur
    ansible-playbook playbooks/install_apache.yml
 
 Visit http://<your-ip> in your browser to confirm Apache is working.
+
+
+Follow SOP for detailed steps: https://docs.google.com/document/d/1d5onTYYw9kzpOVUiN43rQmqEfeORIj_XBwnTdlnY3ME/edit?tab=t.0#heading=h.56mtyms2fa2k
